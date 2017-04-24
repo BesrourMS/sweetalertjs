@@ -1,0 +1,2 @@
+# sweetalertjs
+Script with SweetAlert
